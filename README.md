@@ -1,4 +1,5 @@
-## Hi there 👋
+This repository contains files for CIS300 Project
+Assignments. ## Hi there 👋
 
 <!--
 **CandiceWare2025/candiceware2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
