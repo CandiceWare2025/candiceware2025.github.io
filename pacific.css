@@ -25,12 +25,18 @@ header {
 
 h1 {
     margin-top: 0;
+    margin-bottom: 0;
+    font-family: Georgia, "Times New Roman", serif;
 }
 
 nav {
     background-color: #FFFFFF;
     text-align: center;
     padding: 1em;
+}
+
+nav a {
+    text-decoration: none;
 }
 
 main {
